@@ -3,7 +3,10 @@ Engeto: Project 1
 První program na online python akademii od Engeta.
 Tento program je psán na základě zkušeností nabraných za 1 měsíc studia python Akademie. Psaní kódu trvalo 10 hodin.
 
-Popis programu
+Popis programu:
+---
+
+Popis zadání
 ---
 Tento program složí k analyzování textů, kde uživatel má na vyběr 1 ze tří možností. Tyto texty jsou dostupné [zde](https://engeto.com/files/task_template.py)
 1. Vyžádá si od uživatele přihlašovací jméno a heslo.
