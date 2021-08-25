@@ -64,3 +64,5 @@ Nejprve si rozdělíme text na jednotlivá slova. Ty pak očistíme od interpunk
 ř. 95
 V poslední části kódu si převedeme list ```numbers_of_length``` na množinu, která nám vymaže duplicity. Následně tuto množinu projížíme ```for``` cyklem, kde zjišťujeme četnost t jednotlivého čísla právě z listu ```numbers_of_length```, tohle číslo pak přidáme do listu ```frequency_numbers```. Z tohoto listu si zjistíme největší číslo, bude nám určovat, kolikrát se má vypsat mezera a hvězdička.
 Nyní projedeme množinu čísel ```for``` cyklem. Dalším příkazem si zjistíme počet mezer. Počet mezer určuje zarovnanost našeho grafu. Nakonec se tedy vypíše na každý řádek hvězdička tolikrát, kolikrát je dané číslo v mnnožině obsazeno v listu ```numbers_of_length```. Zbylé znaky budou obsahovat právě mezery, který se rovná rozdílu nejvyššího čísla v  listu ```frequency_numbers``` a počtu výskytů množinového čísla v listu ```numbers_of_length```.
+
+na tomto kódu jsem strávil 6 dní (6x odpoledne po 4 hodinách)
